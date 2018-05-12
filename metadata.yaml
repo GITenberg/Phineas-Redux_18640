@@ -15,6 +15,8 @@ description: "Phineas Redux is a novel by Anthony Trollope, first published in 1
   \ as a serial in The Graphic. It is the fourth of the \"Palliser\" series of novels\
   \ and the sequel to the second book of the series, Phineas Finn.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18640#Phineas-Redux
 gutenberg_issued: '2006-06-21'
 gutenberg_type: Text
 identifiers:
