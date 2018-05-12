@@ -1,0 +1,42 @@
+_repo: Phineas-Redux_18640
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Phineas Redux is a novel by Anthony Trollope, first published in 1873\
+  \ as a serial in The Graphic. It is the fourth of the \"Palliser\" series of novels\
+  \ and the sequel to the second book of the series, Phineas Finn.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2006-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18640'
+  wikidata: Q7186370
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Palliser, Plantagenet (Fictitious character) -- Fiction'
+- !lcsh 'Suspense fiction'
+- !lcsh 'Legislators -- Crimes against -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Dublin (Ireland) -- Fiction'
+- !lcsh 'Widowers -- Fiction'
+- !lcsh 'Political fiction'
+title: Phineas Redux
+url: http://www.gutenberg.org/ebooks/18640
+wikipedia:
+- https://en.wikiquote.org/wiki/Phineas_Redux
+- https://en.wikipedia.org/wiki/Phineas_Redux
